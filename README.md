@@ -1,0 +1,1 @@
+Desenvolvi esse jogo como parte da Formação Iniciante em Programa do programa Oracle One Next Education. No jogo, o usuário deve acertar o número correto entre 01 e 10. Utilizei CSS, HTML e Javascript e fiz algumas modificações visuais para personalizá-lo de acordo com minhas preferências.
